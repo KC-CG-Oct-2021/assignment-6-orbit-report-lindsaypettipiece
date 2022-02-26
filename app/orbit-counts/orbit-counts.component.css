@@ -1,0 +1,21 @@
+.counts {
+	background: #34495E;
+	color: #fff;
+	border-radius: 5px;
+	width: 225px;
+}
+
+.counts div {
+	padding: 8px;
+}
+
+.counts span {
+	float: right;
+}
+/* <tr *ngFor="let satellite of satellites">
+        <td>{{satellite.name}}</td>
+        <td>{{satellite.type}}</td>
+        <td>{{satellite.operational}}</td>
+        <td>{{satellite.orbitType}}</td>
+        <td>{{satellite.launchDate}}</td>
+    </tr> */
